@@ -1,0 +1,5 @@
+.lock-waf_darwin_build
+npm-debug.log*
+.idea
+build
+node_modules
